@@ -1,5 +1,5 @@
-# mayaicons
-Maya Icon Pack - Available on PlayStore
+# Maya Icon Pack
+Available on PlayStore: ![Maya Icons](https://play.google.com/store/apps/details?id=com.mayaicons.app)
 
 ![cover2](marketing/cover2.png)
 
