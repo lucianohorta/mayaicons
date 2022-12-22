@@ -7,3 +7,4 @@ Available on PlayStore: ![Maya Icons](https://play.google.com/store/apps/details
 ![2](marketing/2.png)
 ![3](marketing/3.png)
 ![4](marketing/4.png)
+![5](marketing/5.png)
