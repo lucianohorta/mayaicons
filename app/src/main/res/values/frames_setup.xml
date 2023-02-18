@@ -15,7 +15,7 @@
     <bool name="downloads_on_wifi_only_enabled_by_default">false</bool>
 
     <!-- Choose whether you want colored tiles by default -->
-    <bool name="enable_colored_tiles">false</bool>
+    <bool name="enable_colored_tiles">true</bool>
 
     <!-- Choose whether you want filled collection preview by default -->
     <bool name="enable_filled_collection_preview">true</bool>

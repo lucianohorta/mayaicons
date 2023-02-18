@@ -34,12 +34,12 @@
         <item>GitHub</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>Here you can check my other projects</item>
+        <item>Support my work here</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>git__hub</item>
+        <item>git__hub2</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>github.com/lucianohorta/</item>
+        <item>https://github.com/lucianohorta/mayaicons/blob/main/README.md</item>
     </string-array>
 </resources>
