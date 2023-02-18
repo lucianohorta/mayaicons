@@ -26,6 +26,7 @@ local.properties
 .settings/
 .loadpath
 svgs
+/app/src/main/res/drawable-nodpi/
 
 # External tool builders
 .externalToolBuilders/
